@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(250, 237, 241);
+}
+
+body{
+    align-items: center;
+    max-width: 450px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 60px;
+
+}
+
+h1{
+    font-size: 25px;
+    margin-bottom: 20px;
+    
+}
+
+h2{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.formulario{
+    font-size: 20px;
+}
+
+.formulario input{
+    display: block;
+    font-size: 15px;
+    margin-bottom: 6px;
+    width: 400px;
+}
+
+button{
+    margin-top: 6px;
+    font-size: 20px;
+    cursor: pointer;
+    width: 400px;
+    background-color: bisque;
+}
